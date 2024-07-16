@@ -5,5 +5,5 @@ soluzione
 
 1.configuro l'istanza di vue su js
 2.creo un h1 nel dom
-3. tramite assegno la proprietà message a vue
-4.
+3.creo la proprietà message in cui inserisco il testo
+4.inserisco dinamicamente il contenuto della proprietà message tramite interpolazione
